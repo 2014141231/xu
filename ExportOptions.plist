@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://www.baidu.com</string>
+		<key>displayImageURL</key>
+		<string>https://www.baidu.com</string>
+		<key>fullSizeImageURL</key>
+		<string>https://www.baidu.com</string>
+	</dict>
+	<key>method</key>
+	<string>development</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.zjft.shepherdApp</key>
+		<string>shepherdApp_Dev</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>569B3E4F286D372FCEEBE114F761078D2E431A5C</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>CS6BZ8L8Z4</string>
+	<key>thinning</key>
+	<string>&lt;thin-for-all-variants&gt;</string>
+</dict>
+</plist>

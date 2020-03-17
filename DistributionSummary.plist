@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shepherd.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>569B3E4F286D372FCEEBE114F761078D2E431A5C</string>
+				<key>dateExpires</key>
+				<string>2020/6/22</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>CS6BZ8L8Z4.com.zjft.shepherdApp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>CS6BZ8L8Z4</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>shepherd.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>52af733a-15a2-452e-b829-075ac317f5e3</string>
+				<key>name</key>
+				<string>shepherdApp_Dev</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>CS6BZ8L8Z4</string>
+				<key>name</key>
+				<string>ZIJIN FULCRUM TECHNOLOGY CO.,LTD.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
