@@ -16,14 +16,14 @@
 		<string>https://www.baidu.com</string>
 	</dict>
 	<key>method</key>
-	<string>development</string>
+	<string>ad-hoc</string>
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>com.zjft.shepherdApp</key>
-		<string>shepherdApp_Dev</string>
+		<string>shepherdApp_AdHoc</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>569B3E4F286D372FCEEBE114F761078D2E431A5C</string>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>

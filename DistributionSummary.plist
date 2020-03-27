@@ -7,16 +7,16 @@
 		<dict>
 			<key>architectures</key>
 			<array>
-				<string>arm64</string>
+				<string>armv7</string>
 			</array>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>569B3E4F286D372FCEEBE114F761078D2E431A5C</string>
+				<string>5FD72D46DBC1231789633E38D4F188BAA27BF9D1</string>
 				<key>dateExpires</key>
-				<string>2020/6/22</string>
+				<string>2020/7/15</string>
 				<key>type</key>
-				<string>iOS Development</string>
+				<string>iOS Distribution</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
@@ -25,16 +25,16 @@
 				<key>com.apple.developer.team-identifier</key>
 				<string>CS6BZ8L8Z4</string>
 				<key>get-task-allow</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>name</key>
-			<string>shepherd.app</string>
+			<string>紫金移动牧羊犬.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>52af733a-15a2-452e-b829-075ac317f5e3</string>
+				<string>18d35e41-60e6-42b6-85be-da5213f7c504</string>
 				<key>name</key>
-				<string>shepherdApp_Dev</string>
+				<string>shepherdApp_AdHoc</string>
 			</dict>
 			<key>team</key>
 			<dict>
